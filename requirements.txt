@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+SQLAlchemy
+pymysql
+pandas
+openpyxl
+# sendgrid
+python-multipart
+email-validator
+alembic
+cryptography
+pydantic_settings
+python-dotenv
+psycopg2-binary
