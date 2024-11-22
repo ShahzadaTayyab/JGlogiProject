@@ -10,8 +10,8 @@ __pycache__/
 env/
 venv/
 ENV/
-.venv/
-.env/
+# .venv/
+# .env/
 
 # Distribution / packaging
 .Python
@@ -68,8 +68,8 @@ instance/
 .webassets-cache
 
 # FastAPI environment variables
-.env
-.env.*
+# .env
+# .env.*
 
 # PyCharm
 .idea/
